@@ -1,0 +1,1 @@
+total_loan_amount
